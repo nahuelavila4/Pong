@@ -6,8 +6,6 @@ scr.setup(width=800, height=600)
 
 scr.title("Pong")
 scr.bgcolor("black")
-#scr.tracer(0)
-
 
 p1 = turtle.Turtle()
 p1.speed(0)
