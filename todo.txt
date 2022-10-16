@@ -1,0 +1,7 @@
+control correction
+
+if both players move at the same time one of them stands still
+
+
+
+
